@@ -14,7 +14,7 @@ This project was designed to reinforce the techniques used to create CRUD routes
 
 A demonstration of the routes in this project can be viewed [here](https://watch.screencastify.com/v/12lx0IptomwtYnLTimQL).
 ## Installation <a name="installation"></a>
-The repository for this assignment can be found [here]. You must also use Insomnia to test these routes, and have a MySQL database to store the data.
+The repository for this assignment can be found [here](https://github.com/NoahCote10/ecommerce-back-end). You must also use Insomnia to test these routes, and have a MySQL database to store the data.
 ## License <a name="license"></a>
 [For more information about this license click here.](https://choosealicense.com/licenses/mit/) 
 ## Usage <a name="usage"></a>
