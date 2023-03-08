@@ -12,7 +12,7 @@
 ## Description <a name="description"></a>
 This project was designed to reinforce the techniques used to create CRUD routes for back end management. I used sequelize, MySQL database, and insomnia to test these routes. I also created the columns for each table using the criteria provided, and established relationships between those tables within an index file.
 
-A demonstration of the routes in this project can be viewed [here](assets/EcommerceBackEndDemo.mp4).
+A demonstration of the routes in this project can be viewed [here](https://watch.screencastify.com/v/12lx0IptomwtYnLTimQL).
 ## Installation <a name="installation"></a>
 The repository for this assignment can be found [here]. You must also use Insomnia to test these routes, and have a MySQL database to store the data.
 ## License <a name="license"></a>
